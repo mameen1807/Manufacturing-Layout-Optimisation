@@ -27,7 +27,7 @@ This approach shows how optimising the sequence of workstations can reduce produ
 - This shows a **~10% improvement** in efficiency.
 
 ## 📷 Example Output
-![Optimisation Progress](layout_optimisation_progress.png)
+![Optimisation Progress](graph.png)
 
 ## 🚀 How to Run
 ```bash
